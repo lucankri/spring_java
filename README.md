@@ -1,6 +1,6 @@
 # Spring
 
-Создание программ для изучения работы Spring Framework с использованием JdbcTemplate, xml-файла и конфигурации Java.
+Creating programs to learn how the Spring Framework works using JdbcTemplate, an xml file, and a Java configuration.
 
 
 ### Exercise 00 – Spring Context
